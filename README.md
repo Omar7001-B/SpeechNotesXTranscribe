@@ -11,7 +11,7 @@ SpeechNotes Enhanced is a userscript designed to improve the functionality of Sp
 
 ## Installation
 ### Manual Installation:
-1. Open Speechnotes.co in your browser.
+1. Open [Speechnotes.co](https://speechnotes.co/dictate/) in your browser.
 2. Open the browser console (`Ctrl+Shift+I` on Windows/Linux, `Cmd+Option+I` on macOS).
 3. Copy the provided script and paste it into the console.
 4. Press Enter to apply the enhancements.
@@ -21,7 +21,7 @@ SpeechNotes Enhanced is a userscript designed to improve the functionality of Sp
 2. Copy the script provided.
 3. Create a new userscript in Tampermonkey.
 4. Paste the script into the userscript editor.
-5. Save the script to automatically apply it whenever you visit Speechnotes.co.
+5. Save the script to automatically apply it whenever you visit [Speechnotes.co](https://speechnotes.co/dictate/).
 
 ## Future Improvements
 - **Real-time Translation to Arabic**: Enhance the script to provide instant translation of transcribed text into Arabic.
